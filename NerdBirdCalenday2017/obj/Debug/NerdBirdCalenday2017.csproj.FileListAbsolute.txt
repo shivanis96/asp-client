@@ -1,0 +1,15 @@
+C:\Users\shiva\source\repos\NerdBirdCalenday2017\NerdBirdCalenday2017\bin\Debug\NerdBirdCalenday2017.exe.config
+C:\Users\shiva\source\repos\NerdBirdCalenday2017\NerdBirdCalenday2017\bin\Debug\NerdBirdCalenday2017.exe
+C:\Users\shiva\source\repos\NerdBirdCalenday2017\NerdBirdCalenday2017\bin\Debug\NerdBirdCalenday2017.pdb
+C:\Users\shiva\source\repos\NerdBirdCalenday2017\NerdBirdCalenday2017\obj\Debug\NerdBirdCalenday2017.csprojResolveAssemblyReference.cache
+C:\Users\shiva\source\repos\NerdBirdCalenday2017\NerdBirdCalenday2017\obj\Debug\NerdBirdCalenday2017.Form1.resources
+C:\Users\shiva\source\repos\NerdBirdCalenday2017\NerdBirdCalenday2017\obj\Debug\NerdBirdCalenday2017.Properties.Resources.resources
+C:\Users\shiva\source\repos\NerdBirdCalenday2017\NerdBirdCalenday2017\obj\Debug\NerdBirdCalenday2017.csproj.GenerateResource.cache
+C:\Users\shiva\source\repos\NerdBirdCalenday2017\NerdBirdCalenday2017\obj\Debug\NerdBirdCalenday2017.csproj.CoreCompileInputs.cache
+C:\Users\shiva\source\repos\NerdBirdCalenday2017\NerdBirdCalenday2017\obj\Debug\NerdBirdCalenday2017.exe
+C:\Users\shiva\source\repos\NerdBirdCalenday2017\NerdBirdCalenday2017\obj\Debug\NerdBirdCalenday2017.pdb
+C:\Users\shiva\source\repos\NerdBirdCalenday2017\NerdBirdCalenday2017\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shiva\source\repos\NerdBirdCalenday2017\NerdBirdCalenday2017\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\shiva\source\repos\NerdBirdCalenday2017\NerdBirdCalenday2017\bin\Debug\Newtonsoft.Json.xml
+C:\Users\shiva\source\repos\NerdBirdCalenday2017\NerdBirdCalenday2017\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\shiva\source\repos\NerdBirdCalenday2017\NerdBirdCalenday2017\obj\Debug\NerdBirdCalenday2017.csproj.CopyComplete
